@@ -84,8 +84,8 @@ public/
 ###  Clone the repository
 
 ```bash
-    git clone https://github.com/amarkumar55/laravel-ecommerce.git
-    cd laravel-ecommerce
+    git clone https://github.com/amarkumar55/laravel-ecommerce.git](https://github.com/amarkumar55/Laravel-Ecommerce-Platform.git)
+    cd Laravel-Ecommerce-Platform
 ```
 
 
