@@ -53,12 +53,13 @@ A full-featured e-commerce web application built using **Laravel** and **MySQL**
 
 ## 🗂️ Project Structure (High Level)
 
+```text
 app/
 ├── Http/
-│ ├── Controllers/
-│ │ ├── Admin/
-│ │ ├── User/
-│ │ └── Auth/
+│   ├── Controllers/
+│   │   ├── Admin/
+│   │   ├── User/
+│   │   └── Auth/
 ├── Models/
 routes/
 ├── web.php
@@ -66,6 +67,7 @@ resources/
 ├── views/
 public/
 ├── assets/
+```
 
 ---
 
