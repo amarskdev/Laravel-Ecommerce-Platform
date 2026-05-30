@@ -150,9 +150,11 @@ Admin routes are prefixed at `/admin` — protected by a dedicated middleware gu
 
 ---
 
-## 🤝 Connect With Me
+*Full e-commerce lifecycle in Laravel — from product catalog to Stripe checkout to admin analytics.*
 
 ---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -172,6 +174,4 @@ Admin routes are prefixed at `/admin` — protected by a dedicated middleware gu
 
 </div>
 
----
 
-*Full e-commerce lifecycle in Laravel — from product catalog to Stripe checkout to admin analytics.*
