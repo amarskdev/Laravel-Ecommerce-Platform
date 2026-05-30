@@ -99,7 +99,7 @@ resources/
 
 ```bash
 # Clone the repository
-git clone https://github.com/amarkumar55/Laravel-Ecommerce-Platform.git
+git clone https://github.com/amarskdev/Laravel-Ecommerce-Platform.git
 cd Laravel-Ecommerce-Platform
 
 # Install PHP dependencies
@@ -153,7 +153,7 @@ Admin routes are prefixed at `/admin` — protected by a dedicated middleware gu
 ## 👤 Author
 
 **Amar Kumar** — Senior Backend Engineer · IBM Certified AI Engineer  
-📌 [LinkedIn](https://www.linkedin.com/in/amarkumar241429017) · 💻 [GitHub](https://github.com/amarkumar55)
+📌 [LinkedIn](https://www.linkedin.com/in/amarskdev) · 💻 [GitHub](https://github.com/amarskdev)
 
 ---
 
